@@ -5,4 +5,7 @@ just another repository
 
 # BabyMetalゆいちゃん脱退
 
-  - feature-A
+    - feature-A
+
+
+      - feature-B 追加せり
