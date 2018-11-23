@@ -10,3 +10,7 @@ just another repository
 
       - feature-B 追加せり
       - ようやく、上手くいったようだ。
+
+
+      -  cms.phpに記述したパラメーターとパスワードでデータ差し替え
+      -  ?__edit=abc123
